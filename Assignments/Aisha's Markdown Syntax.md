@@ -1,15 +1,18 @@
-#Title How To Make Changes To Your Website
+#h1 How To Make Changes To Your Website
 
 Making changes to your website can help make it prettier and more organized.
 
----
 To insert **hyperlinks** to your website, you:
+---
 [title](https://www.example.com)
+---
 [Google](https://www.google.com)
+---
 [Google Classroom](https://classroom.google.com)
+---
 [RapidIdentity](https://my.harmonytx.org/portal/p)
+---
 [Gmail](https://mail.google.com)
-
 ---
 
 To make **lists**, you can insert *ordered* or *unordered* lists.
