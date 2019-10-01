@@ -12,9 +12,9 @@ To make changes to a website, you can use features such as bold text, images, an
 
 [Instagram](http:www.instagram.com)
 
-*First Item
+* First Item
 
-*Second Item
+* Second Item
 
 1. First Item
 
