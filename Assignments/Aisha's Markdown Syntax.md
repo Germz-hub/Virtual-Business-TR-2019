@@ -36,3 +36,4 @@ To insert images you can do:
 ![image2](githublogo.jpg)
 ---
 ![image3](horse.jpg)
+---
