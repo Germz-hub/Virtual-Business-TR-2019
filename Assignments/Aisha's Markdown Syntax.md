@@ -30,6 +30,9 @@ For **unordered**, you can do:
 ---
 
 To insert images you can do:
+---
 ![image1](code.jpg)
+---
 ![image2](githublogo.jpg)
+---
 ![image3](horse.jpg)
