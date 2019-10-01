@@ -3,6 +3,7 @@
 Making changes to your website can help make it prettier and more organized.
 
 To insert **hyperlinks** to your website, you:
+
 ---
 [title](https://www.example.com)
 ---
@@ -30,6 +31,7 @@ For **unordered**, you can do:
 ---
 
 To insert images you can do:
+
 ---
 ![image1](code.jpg)
 ---
